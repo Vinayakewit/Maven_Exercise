@@ -16,7 +16,7 @@ public class WebpageTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         Thread.sleep(2000);
-        driver.get(" "); // "Note: You should use your
+        driver.get("https://github.com/Vinayakewit/Maven_Exercise.git"); // "Note: You should use your
         GITHUB - URL here...!!!"
     }
 
